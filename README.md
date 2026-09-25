@@ -2,7 +2,7 @@
 
 **BENDS: Bayesian Estimation of Noisy Derivative Shifts**
 
-BENDS identifies the time of an expected change in signal slope near a documented event time. It was developed for the BP-guided effect-onset inference method described in the manuscript *Blood Pressure-Guided Inference of Vasoactive Drug Effect Onset for More Reliable Dose-Response Analysis*.
+BENDS identifies the time of an expected change in signal slope near a documented event time. BENDS was developed by Sina Masoumi Shahrbabak as part of the study Blood Pressure-Guided Inference of Vasoactive Drug Effect Onset for More Reliable Dose-Response Analysis.
 
 The MATLAB, Python, and R implementations in this repository use the same calculations and the same input definitions.
 
